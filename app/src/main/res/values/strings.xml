@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fachri app</string>
+
+    <string name="txthello"> Hallo World </string>
+
+    <string name="textButton"> Ganti Text Random </string>
+
+    <string name="pindahbutton">pindah ke halaman Movies</string>
+    <string name="api_key">2c4b5c9b12e7a1db6242337110576436</string>
+
+
+</resources>
